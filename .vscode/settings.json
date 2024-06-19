@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "bit": "cpp",
+        "*.tcc": "cpp",
+        "cctype": "cpp",
+        "chrono": "cpp",
+        "cmath": "cpp",
+        "compare": "cpp",
+        "concepts": "cpp",
+        "cstdarg": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "cwchar": "cpp",
+        "string": "cpp",
+        "type_traits": "cpp",
+        "vector": "cpp",
+        "fstream": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "thread": "cpp",
+        "cinttypes": "cpp",
+        "cstdint": "cpp",
+        "typeinfo": "cpp"
+    }
+}
