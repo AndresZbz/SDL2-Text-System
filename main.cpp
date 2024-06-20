@@ -25,7 +25,7 @@ int main() {
     SDL_SetRenderDrawColor(renderer, 0, 0, 0, 255);
     
     //load the texts and clear the screen after
-    textSystem("./texts.csv", renderer, 50, 1);
+    textSystem("./texts.csv", renderer, 30, 1);
     SDL_RenderClear(renderer);
 
     textSystem("./texts.csv", renderer, 50, 3);
